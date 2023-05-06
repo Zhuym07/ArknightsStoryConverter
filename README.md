@@ -1,0 +1,2 @@
+# ArknightsStoryConverter
+将PRTS上的剧情数据转换为可读性更强的纯文本数据
